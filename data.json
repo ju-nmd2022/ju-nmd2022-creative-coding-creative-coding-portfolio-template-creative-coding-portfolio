@@ -1,7 +1,7 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "file": "project/firstWeek1",
+    "name": "Metro de Caracas",
+    "description": "This project aims to map out the Metro lines in Caracas using Perlin noise to draw dots that will map out the metro lines. As a reference I used an artwork published in the Gorilla Sun Newsletter."
   }
 ]
