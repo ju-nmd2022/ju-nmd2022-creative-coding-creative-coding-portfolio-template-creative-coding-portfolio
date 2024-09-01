@@ -1,7 +1,43 @@
 [
   {
     "file": "experiments/example.js",
-    "name": "Name of your experiment",
+    "name": "Name of your experiment 1",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
-  }
-]
+  },  
+    {
+      "file": "experiments/lineArt.js",
+      "name": "Line Art",
+      "description": "Explains the what and the why. What is the main idea? What is the purpose? What is the inspiration?"
+    },  
+  
+    {
+      "file": "experiments/lineArtColor.js",
+      "name": "Line Art Grid",
+      "description": "Explains the what and the why. What is the main idea? What is the purpose? What is the inspiration?"
+    },  
+  
+    {
+      "file": "experiments/lineArtGrid.js",
+      "name": "Line Art Color",
+      "description": "Explains the what and the why. What is the main idea? What is the purpose? What is the inspiration?"
+    },  
+  
+    {
+      "file": "experiments/waveArt.js",
+      "name": "Wave art",
+      "description": "Explains the what and the why. What is the main idea? What is the purpose? What is the inspiration?"
+    },  
+  
+    {
+      "file": "experiments/waveArtGrid.js",
+      "name": "Wave Art Grid",
+      "description": "Explains the what and the why. What is the main idea? What is the purpose? What is the inspiration?"
+    },  
+  
+    {
+      "file": "experiments/waveArtColor.js",
+      "name": "Wave Art Color",
+      "description": "Explains the what and the why. What is the main idea? What is the purpose? What is the inspiration?"
+    }
+  ]
+  
