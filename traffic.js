@@ -86,8 +86,8 @@ class Vehicle {
   }
   
   function draw() {
-    background(220);
-    drawRoads();
+    background(0);
+    drawRoads(7);
   
     for (let vehicle of vehicles) {
       let x = floor(vehicle.position.x / resolution);

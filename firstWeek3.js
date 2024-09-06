@@ -56,6 +56,7 @@ function checkIfMetroLine(x, y, noiseScale) {
   return 0; //Not part of a metro line
 }
 
+//The drawing of the connections was created with the help of Claude Ai to understand the logic
 function drawConnections(dots) {
   for (let i = 0; i < dots.length; i++) {
     for (let j = i + 1; j < dots.length; j++) {
